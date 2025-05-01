@@ -27,3 +27,5 @@ Unlike the default Windows File Explorer, **FileManager** offers:
 ---
 
 ![Screen Recording 2025-05-01 120634](https://github.com/user-attachments/assets/cf41d12c-cba7-46e6-93ca-6be8bdb6d3fa)
+
+---
