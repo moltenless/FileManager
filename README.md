@@ -1,4 +1,4 @@
-# 🗂️ FileManager - Custom File Explorer
+# 🗂️ FileManager - Custom File Explorer (Screenshots are below)
 
 **A lightweight file explorer that lets you navigate your system with enhanced visibility and usability.**  
 Quickly calculate folder sizes and reveal hidden system files that even Windows Explorer ignores.
